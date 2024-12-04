@@ -1,21 +1,20 @@
 Demo: https://jgadzinska.github.io/calculator-in-react/
 
-Technologie: React, Vite, Tailwind CSS.
+Technologies: React, Vite, Tailwind CSS.
 
-Projekt przedstawia kalkulator.
+The project shows a calculator.
 
+Features:
 
-Funkcje:
+- addition, subtraction, multiplication, division, percentages
 
-- dodawanie, odejmowanie, mnożenie, dzielenie, procenty
+- button C to clear the current activity
 
-- przycisk C umożliwiający wyczyszczenie bieżcego działania
+- The AC button allows you to reset the calculator
 
-- przycisk AC umożliwia zresetowanie kalkulatora
+- maximum allowed 12 characters
 
-- maksymalna dozwolona liczba 12 znaków
-
-- jeśli jest niepoprawne działanie wyskakuje komunikat "błąd"
+- if the operation is incorrect, an "error" message appears
 
 - RWD
 
