@@ -5,7 +5,6 @@ Technologies: React, Vite, Tailwind CSS.
 The project shows a calculator.
 
 
-
 Features:
 
 - addition, subtraction, multiplication, division, percentages
